@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "About me"
 ---
 
 I am a PhD student at the University of Queensland, affiliated with [EQUS](https://equs.org/users/evan-gale). I study theoretical physics,
