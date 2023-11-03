@@ -10,5 +10,5 @@ Currently, I am studying problems with localisation in the atom-light interactio
 I am looking at the physical consequences of the localisation scheme employed by modelling the atom-detector's quantised centre of mass,
 corresponding to different definitions of the associated position operator.
 
-Additionally, I am also currently investigating the properties of a novel class minimum uncertainty states,
-which minimise the uncertainty between the position-velocity quadratures rather than the usual position-momentum quadratures in phase space.
+Additionally, I am also currently investigating the properties of a novel class of minimum uncertainty states,
+which minimise the uncertainty between the position-velocity quadratures rather than the usual position-momentum quadratures of phase space.
